@@ -4,7 +4,7 @@ import requests
 app = FastAPI()
 
 @app.get("/precos")
-def buscar_precos(data: str):
+def buscar_precos(data: str) -> dict:
     try:
         resposta = requests.get(
             "https://testedefensoriapr.pythonanywhere.com/precos"
