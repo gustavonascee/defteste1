@@ -66,3 +66,5 @@ http://127.0.0.1:8000/precos?data=28/05/2024
 }
 ]
 }
+
+//todo o processo foi registrado manualmente em folha de caderno também
