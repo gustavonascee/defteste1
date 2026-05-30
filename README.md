@@ -15,7 +15,7 @@ API desenvolvida em Python utilizando FastAPI para consultar preços de tapetes 
 
 * Clone o repositório:
 
-git clone https://github.com/gustavonascee/defteste1.git
+git = https://github.com/gustavonascee/defteste1.git
 
 * Entre na pasta do projeto:
 
